@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 # 💫 About Me:
  I'm currently a Final year undergraduate in Computer Science from Technocrats Institute of Technology.<br>I have good experience using C++ and Java. I have worked on several web projects using NodeJS, ExpressJS, React and MongoDB.<br>I am a quick learner and open to any new challenges and opportunities in the software development domain.
@@ -13,12 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pratyush-45&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush-45&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-45&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyush-45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratyush-45&icon=0&color=0)](https://visitcount.itsvg.in)
