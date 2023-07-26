@@ -1,7 +1,7 @@
 # Hello there 👋
 
 # 💫 About Me:
- I'm currently a Final year undergraduate in Computer Science from Technocrats Institute of Technology.<br>I have good experience using C++ and Javascript. I have worked on several web projects using NodeJS, ExpressJS, React and MongoDB.<br>I am a quick learner and open to any new challenges and opportunities in the software development domain.
+ I'm a recent graduate in Computer Science from Technocrats Institute of Technology.<br>I have good experience using C++ and Javascript. I have worked on several web projects using NodeJS, ExpressJS, React and MongoDB.<br>I am a quick learner and open to any new challenges and opportunities in the software development domain.
 
 
 ## 🌐 Socials:
